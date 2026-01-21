@@ -2,6 +2,6 @@
 
 echo "Please enter pin number"
 
-read PIN
+read -s PIN
 
 echo "You have entered PIN as $PIN"
